@@ -1,0 +1,6 @@
+fastapi==0.115.12
+uvicorn==0.34.3
+python-multipart==0.0.20
+google-genai>=1.10.0
+edge_tts
+imageio_ffmpeg
