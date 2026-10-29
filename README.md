@@ -1,0 +1,2 @@
+# Samoeurnkh.com
+apptranslate
